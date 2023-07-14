@@ -15,7 +15,7 @@
   • Tools: Postman and GitHub
   
   </section>
-  <div>  
+  <div style="text-align:center" >  
     <a style="text-align:center" href="https://app.daily.dev/AbdulWahab__"><img src="https://api.daily.dev/devcards/f38b2cef1b5545a688007773cd1af21d.png?r=f47" width="400" alt="Abdul Wahab's Dev Card"/></a>
   </div>
 </div>
