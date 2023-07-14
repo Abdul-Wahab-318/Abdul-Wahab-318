@@ -10,7 +10,7 @@ Crafting ideas into web-based realities is my forte, which enables me to possess
 
 • Tools: Postman and GitHub
 
-<a align="center" href="https://app.daily.dev/AbdulWahab__"><img src="https://api.daily.dev/devcards/f38b2cef1b5545a688007773cd1af21d.png?r=f47" width="400" alt="Abdul Wahab's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/AbdulWahab__"><img align="center" src="https://api.daily.dev/devcards/f38b2cef1b5545a688007773cd1af21d.png?r=f47" width="400" alt="Abdul Wahab's Dev Card"/></a>
 
 <!--
 **Abdul-Wahab-318/Abdul-Wahab-318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
