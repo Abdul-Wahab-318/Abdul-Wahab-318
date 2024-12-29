@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul-Wahab 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Web development and Machine learning. Here you'll find some of the projects I've been working on and contributions I've made to the community.
+I'm a passionate Software Engineer with a keen interest in Machine Learning and Web development. Here you'll find some of the projects I've been working on and contributions I've made to the community.
 
 ## 🚀 About Me
 
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Back-end:** Node.js, Express.js, FastAPI
 - **Front-end:** React.js, Next.js 
 - **Databases:** MongoDB, MySQL
-- **Machine learning:** Scikit learn, Tensorflow, Keras, Matplotlib, Seaborn, Pandas
 - **Tools:** Git, VSCode, Postman
+- **Machine learning and Data Visualization:** Scikit learn, Tensorflow, Keras, Matplotlib, Seaborn, Pandas
 
 ## 📈 GitHub Stats
 
