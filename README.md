@@ -12,7 +12,7 @@ I'm a passionate Software Engineer with a keen interest in Machine Learning and 
 
 - **Languages:** JavaScript, Python, C++
 - **Back-end:** Node.js, Express.js, FastAPI
-- **Front-end:** React.js, Next.js 
+- **Front-end:** React.js, Next.js, Tailwind CSS, Material UI, Tanstack Query, Redux
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VSCode, Postman
 - **Machine learning and Data Visualization:** Scikit learn, Tensorflow, Keras, Matplotlib, Seaborn, Pandas
