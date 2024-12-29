@@ -1,28 +1,48 @@
-### Hi there 👋
+# Hi there, I'm Abdul-Wahab 👋
 
-I'm Abdul Wahab, a 5th semester software engineering student from Air University, Islamabad. Since 2021, I have been gaining hands-on experience in **`MERN Stack`** development by learning from various resources and developing custom projects according to industrial standards, with a particular focus on software development. Moreover, I have been freelancing on fiverr and building web apps for clients across the world.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Web development and Machine learning. Here you'll find some of the projects I've been working on and contributions I've made to the community.
 
-Crafting ideas into web-based realities is my forte, which enables me to possess the following skills:
+## 🚀 About Me
 
-• Front-End: HTML, CSS, Bootstrap, JavaScript, React.js, Redux, Chakra UI, Tailwind CSS
+- 🌱 I’m currently learning advanced concepts of Machine learning and deep learning.
+- 💼 I'm looking to collaborate on exciting open-source projects.
+- 🥅 2025 Goals: Contribute more to open-source and enhance my knowledge in AI/ML.
 
-• Back-End: Node.js, Express.js, MongoDB, and REST APIs
+## 🛠️ Technologies & Tools
 
-• Tools: Postman and GitHub
+- **Languages:** JavaScript, Python, C++
+- **Back-end:** Node.js, Express.js, FastAPI
+- **Front-end:** React.js, Next.js 
+- **Databases:** MongoDB, MySQL
+- **Machine learning:** Scikit learn, Tensorflow, Keras
+- **Tools:** Git, VSCode, Postman
 
-<a align="center" href="https://app.daily.dev/AbdulWahab__"><img align="center" src="https://api.daily.dev/devcards/f38b2cef1b5545a688007773cd1af21d.png?r=f47" width="400" alt="Abdul Wahab's Dev Card"/></a>
+## 📈 GitHub Stats
 
-<!--
-**Abdul-Wahab-318/Abdul-Wahab-318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Abdul-Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Wahab-318&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wahab-318&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+## 📫 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** [wahabmaliq@gmail.com](mailto:wahabmaliq@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/abdulwahabmalik318/]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulwahabmalik318/))
+- **Portfolio:** [abdulwahab-info.netlify.app](https://abdulwahab-info.netlify.app)
+
+Feel free to reach out if you want to collaborate on a project or just want to say hi! 😄
+
+## 🌟 Featured Projects
+
+### Price Wice
+Enter a product's URL and recieve an email everytime the price changes. Helps you save money by letting you know whenever there's a sale on your desired item
+- **Tech stack:** Next.js, MongoDB
+- [GitHub Repository](https://github.com/Abdul-Wahab-318/price-wice)
+- [Live Demo](https://price-wice.vercel.app/)
+
+### Project 2: News Topic Classification
+Topic classification using Naive Bayes to classify articles into : World, Sports, Business and Tech/Sci categories
+- **Tech stack:** Python, Scikit-learn, Pandas, Matplotlib
+- [GitHub Repository](https://github.com/Abdul-Wahab-318/News-Topic-Classification)
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊
