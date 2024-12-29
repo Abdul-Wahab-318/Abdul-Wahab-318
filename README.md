@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Back-end:** Node.js, Express.js, FastAPI
 - **Front-end:** React.js, Next.js 
 - **Databases:** MongoDB, MySQL
-- **Machine learning:** Scikit learn, Tensorflow, Keras
+- **Machine learning:** Scikit learn, Tensorflow, Keras, Matplotlib, Seaborn, Pandas
 - **Tools:** Git, VSCode, Postman
 
 ## 📈 GitHub Stats
@@ -29,20 +29,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Portfolio:** [abdulwahab-info.netlify.app](https://abdulwahab-info.netlify.app)
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi! 😄
-
-## 🌟 Featured Projects
-
-## Price Wice
-Enter a product's URL and recieve an email everytime the price changes. Helps you save money by letting you know whenever there's a sale on your desired item
-- **Tech stack:** Next.js, MongoDB
-- [GitHub Repository](https://github.com/Abdul-Wahab-318/price-wice)
-- [Live Demo](https://price-wice.vercel.app/)
-
-## News Topic Classification
-Topic classification using Naive Bayes to classify articles into : World, Sports, Business and Tech/Sci categories
-- **Tech stack:** Python, Scikit-learn, Pandas, Matplotlib
-- [GitHub Repository](https://github.com/Abdul-Wahab-318/News-Topic-Classification)
-
----
 
 Thank you for visiting my profile! Have a great day! 😊
