@@ -21,7 +21,7 @@ I'm a passionate Software Engineer with a keen interest in Machine Learning and 
 
 ![Abdul-Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Wahab-318&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wahab-318&layout=compact&theme=radical)
-
+(Stats not entirely accurate as most of my repositories are private)
 ## 📫 Contact Me
 
 - **Email:** [wahabmaliq@gmail.com](mailto:wahabmaliq@gmail.com)
