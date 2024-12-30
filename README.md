@@ -19,7 +19,7 @@ I'm a passionate Software Engineer with a keen interest in Machine Learning and 
 
 ## 📈 GitHub Stats
 
-![Abdul-Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Wahab-31&show_icons=true&theme=radical)
+![Abdul-Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Wahab-318&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wahab-318&layout=compact&theme=radical)
 
 ## 📫 Contact Me
