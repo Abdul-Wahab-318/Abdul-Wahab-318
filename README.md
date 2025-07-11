@@ -1,21 +1,22 @@
 # Hi there, I'm Abdul-Wahab 👋
 
-I'm a passionate Software Engineer with a keen interest in Machine Learning and Web development. Here you'll find some of the projects I've been working on and contributions I've made to the community.
+I'm a passionate Software Engineer with a keen interest in Data Engineering and Software Development. Here you'll find some of the projects I've been working on and contributions I've made to the community.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced concepts of Machine learning and deep learning.
+- 🌱 I’m currently learning advanced concepts of Machine learning, Data Analysis and Data Engineering.
 - 💼 I'm looking to collaborate on exciting open-source projects.
-- 🥅 2025 Goals: Contribute more to open-source and enhance my knowledge in AI/ML.
+- 🥅 2025 Goals: Build more projects and gain advanced knowledge on Data Engineering and Analysis.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, C++ , C#
+- **Languages:** JavaScript, Python, C#
 - **Back-end:** Node.js, Express.js, FastAPI
-- **Front-end:** React.js, Next.js, Tailwind CSS, Material UI, Tanstack Query, Redux
-- **Databases:** MongoDB, MySQL
+- **Front-end:** React.js, Next.js, Tailwind CSS, Next UI, Tanstack, Redux
+- **Databases:** MongoDB, SQL
 - **Tools:** Git, VSCode, Postman
 - **Machine learning and Data Visualization:** Scikit learn, Tensorflow, Keras, Matplotlib, Seaborn, Pandas
+- **Workflow Orchestration Tool:** Apache Airflow
 
 ## 📈 GitHub Stats
 
